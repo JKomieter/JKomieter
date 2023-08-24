@@ -3,10 +3,8 @@
 </div>  
   
 
-### <div align="center">Passionate about coding, problem-solving, and continuous learning. I thrive on turning complex challenges into elegant solutions through clean and efficient code. Aspiring software engineer with a deep interest in web and app developement, and a knack for JavaScript, React, Nextjs React native.</div>  
+### <div align="center">Passionate about coding, problem-solving, and continuous learning. I thrive on turning complex challenges into elegant solutions through clean and efficient code. Aspiring software engineer with a deep interest in web and app development, and a knack for JavaScript, React, Nextjs React native.</div>  
   
-
--   
   
 
 - 🌱 I’m currently learning React Native  
