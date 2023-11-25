@@ -5,9 +5,13 @@
 
 ### <div align="center">Passionate about coding, problem-solving, and continuous learning. I thrive on turning complex challenges into elegant solutions through clean and efficient code. Aspiring software engineer with a deep interest in web and app development, and a knack for JavaScript, React, Nextjs, React native and Rust.</div>  
   
-  
+### Currently Working On
 
-- 🌱 I’m currently learning React Native, Rust and 3d web development  
+🚀 I am actively contributing to [InspiroDraw](link-to-your-repo), a collaborative online workspace built with Next.js, Fabric.js, and Socket.io. It's a Miro clone that allows users to collaborate in real-time on a digital canvas. Feel free to check out the [project repository](link-to-your-repo) for more details!
+
+---
+
+- 🌱 Learning React Native, Rust and 3d web development  
 
 - ❓ Ask me about anything related to Frontend development
 
