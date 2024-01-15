@@ -25,6 +25,7 @@ Code ignites my soul. It's not just lines on a screen, but a symphony of logic, 
 - JavaSript / TypeScript
 - Python
 - SQL / NoSQL
+- CURIOUSITY
 
 
 
