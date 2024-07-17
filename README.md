@@ -3,7 +3,7 @@
 </div>  
    
 <div align="center">
-  
+  Hi there! I'm currently working on SmartShreds, driven by my passion for creating innovative solutions to improve systems and streamline workflows. With a strong background in Rust development, I've always been fascinated by the potential of technology to transform the way we manage and organize information. SmartShreds is a culmination of my dedication to making digital life more efficient and manageable.
 </div>  
   
 
