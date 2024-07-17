@@ -1,10 +1,10 @@
 <div align="center">
 <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" align="center" style="width: 50%" />
 </div>  
+   
+<div align="center">
   
-
-### <div align="center">
-Code ignites my soul. It's not just lines on a screen, but a symphony of logic, a sculptor's chisel shaping pixels into vibrant worlds. My canvas? Web and app landscapes crafted with JavaScript's and Python's elegances. But the horizon beckons. Rust's depths whisper of power and control, an allure I can't deny. And VR's shimmering mirage promises to rewrite reality, pixel by pixel. I'm a lifelong learner, a problem-solver by instinct, and I crave to build the future, line by code, byte by byte. So let's paint a masterpiece together, where technology transcends and inspires.</div>  
+</div>  
   
 
 ## Connect with me  
